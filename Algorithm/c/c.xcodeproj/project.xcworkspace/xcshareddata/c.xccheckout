@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DFAFEA2B-E2F3-43B4-A484-BD85D72B42EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>c</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F98BA3F7-5B54-4B79-9E95-6D276BB7DD1C</key>
+		<string>ssh://github.com/faithgithub/mycode.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Algorithm/c/c.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F98BA3F7-5B54-4B79-9E95-6D276BB7DD1C</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/faithgithub/mycode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F98BA3F7-5B54-4B79-9E95-6D276BB7DD1C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F98BA3F7-5B54-4B79-9E95-6D276BB7DD1C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>github</string>
+		</dict>
+	</array>
+</dict>
+</plist>
