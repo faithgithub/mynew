@@ -1,4 +1,4 @@
-__author__ = 'zxh'
+__author__ = 'wxy'
 import os
 print os.getcwd()
 #os.chdir('/tmp')

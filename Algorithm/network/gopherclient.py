@@ -1,4 +1,4 @@
-__author__ = 'zxh'
+__author__ = 'wxy'
 import socket,sys
 port = 70
 host = sys.argv[1]

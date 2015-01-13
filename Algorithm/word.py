@@ -1,4 +1,4 @@
-__author__ = 'zxh'
+__author__ = 'wxy'
 #print( ''.join( sorted( a ,key = lambda x : ord( x.lower( ) ) * 2 + x.islower( ) ) ) )
 def get_single(word):
     word = word.lower()

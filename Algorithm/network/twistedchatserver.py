@@ -1,4 +1,4 @@
-__author__ = 'zxh'
+__author__ = 'wxy'
 from twisted.internet.protocol import Factory
 from twisted.protocols.basic import LineOnlyReceiver
 from twisted.internet import reactor

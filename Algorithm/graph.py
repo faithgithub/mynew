@@ -1,4 +1,4 @@
-__author__ = 'zxh'
+__author__ = 'wxy'
 graph = {'A': ['B', 'C'],
              'B': ['C', 'D'],
              'C': ['D'],

@@ -1,4 +1,4 @@
-__author__ = 'zxh'
+__author__ = 'wxy'
 import socket,sys,time
 host = sys.argv[1]
 textport = sys.argv[2]

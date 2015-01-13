@@ -1,4 +1,4 @@
-__author__ = 'zxh'
+__author__ = 'wxy'
 import time
 n = raw_input('please enter the num:')
 n = int(n)

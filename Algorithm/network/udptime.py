@@ -1,4 +1,4 @@
-__author__ = 'zxh'
+__author__ = 'wxy'
 import socket,sys,struct,time
 hostname = 'time.nist.gov'
 port = 37

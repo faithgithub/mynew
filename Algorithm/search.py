@@ -1,5 +1,5 @@
 # coding=utf-8
-__author__ = 'zxh'
+__author__ = 'wxy'
 def sequential_search(a_list, item):
     #顺序查找
     pos = 0

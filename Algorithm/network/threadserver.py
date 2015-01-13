@@ -1,4 +1,4 @@
-__author__ = 'zxh'
+__author__ = 'wxy'
 import socket,traceback,os,sys
 from threading import *
 host =''
